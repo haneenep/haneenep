@@ -20,6 +20,9 @@
 
 <p align="center">🔭 I'm currently working on Ecommerce project<br>👯 I’m looking to collaborate with other Developers<br>💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB**<br>📫 How to reach me: Email :- haneenep134@gmail.com</p>
 
+###
+
+<img src="https://raw.githubusercontent.com/haneenep/haneenep/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -57,7 +60,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haneenep&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=haneenep&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=haneenep&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
