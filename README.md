@@ -21,7 +21,7 @@
 
 ###
 
-<p align="center">🔭 I'm currently working on Ecommerce project<br>👯 I’m looking to collaborate with other Developers<br>💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB**<br>📫 How to reach me: Email :- haneenep134@gmail.com</p>
+<p align="center">🔭 I'm currently learning react <br>👯 I’m looking to collaborate with other Developers<br>💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, sql, TypeScript, React **<br>📫 How to reach me: Email :- haneenep134@gmail.com</p>
 
 ###
 
@@ -43,6 +43,10 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="25" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-007acc?logo=typescript&logoColor=black&style=for-the-badge" height="25" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-black?logo=react&logoColor=2361DAFB&style=for-the-badge" height="25" alt="reactjs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="25" alt="npm logo"  />
   <img width="12" />
