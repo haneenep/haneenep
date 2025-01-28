@@ -84,7 +84,7 @@
   <a href="www.linkedin.com/in/muhammed-haneen-9465822aa " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/haneen_ep?igsh=MWcyMW1ubm8za2tzYQ%3D%3D&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/_haneen_ep_?igsh=MWcyMW1ubm8za2tzYQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
 </div>
