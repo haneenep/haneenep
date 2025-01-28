@@ -1,42 +1,25 @@
-<br clear="both">
-
 <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">,<br> I'm Muhammed Haneen
 </h1>
 
-###
-
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
-<br><br>
-
-
-###
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+</div>
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=haneenep.haneenep&left_color=yellow&right_color=black"  />
 </div>
 
-###
-
 <h3 align="center">About Me</h3>
-
-###
 
 <h4 align="center">Self-taught full-stack developer</h4>
 
-###
-
-<p align="center">🔭 I'm currently learning react <br>👯 I’m looking to collaborate with other Developers<br>💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, sql, TypeScript, React **<br>📫 How to reach me: Email :- haneenep134@gmail.com</p>
-
-###
+<p align="center">🔭 I'm currently working on my main project <br>👯 I’m looking to collaborate with other Developers<br>💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, sql, TypeScript, React **<br>📫 How to reach me: Email :- haneenep134@gmail.com</p>
 
 <img src="https://raw.githubusercontent.com/haneenep/haneenep/output/snake.svg" alt="Snake animation" />
 
-###
-
 <h3 align="center">Languages and tools :</h3>
-
-###
 
 <br clear="both">
 
@@ -68,20 +51,14 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haneenep&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=haneenep&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h3 align="center">Connect With me :</h3>
-
-###
 
 <br clear="both">
 
@@ -93,6 +70,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
