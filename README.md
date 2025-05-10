@@ -15,7 +15,7 @@
 
 <h4 align="center">Self-taught full-stack developer</h4>
 
-<p align="center">🔭 I'm currently working on my main project <br>👯 I’m looking to collaborate with other Developers<br>💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, SQL, TypeScript, React, Docker, kubernetes **<br>📫 How to reach me: Email :- haneenep134@gmail.com</p>
+<p align="center">🔭 I'm currently working on my main project <br>👯 I’m looking to collaborate with other Developers<br>💬 Ask me about **JavaScript, Node.js, Express.js, Nest.js, MongoDB, SQL, TypeScript, React, Docker, kubernetes **<br>📫 How to reach me: Email :- haneenep134@gmail.com</p>
 
 <img src="https://raw.githubusercontent.com/haneenep/haneenep/output/snake.svg" alt="Snake animation" />
 
